@@ -1,5 +1,6 @@
 # CG1111A-final-project- Autonomous mBot Maze Solver
 Autonomous maze-solving mBot with wall following, line detection, and custom-built RGB colour sensing system. Developed for NUS CG1111A.
+*This repository was uploaded after project completion for documentation and archival purposes*
 
 ## Overview
 
@@ -198,7 +199,6 @@ Goal melody playback using the onboard buzzer.
 
 ## Notes
 
-This repository was uploaded after project completion for documentation and archival purposes.
 
 The Arduino project consists of multiple `.ino` files which must be opened together inside the same Arduino IDE project folder, as Arduino automatically merges all `.ino` files during compilation.
 
